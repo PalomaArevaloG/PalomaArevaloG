@@ -44,7 +44,9 @@ Durante muchos años me he dedicado al **turismo** ✈️, en concreto en agenci
 ### Aficiones:
 
 📖 Me encanta la lectura de cualquier tipo 
+
 📺 Disfruto con series de lo más variopinto
+
 ✈️ Descubrir nuevos rincones me apasiona
 
 ### Conecta conmigo:
