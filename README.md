@@ -2,6 +2,8 @@
 <h1 align="center">Hola 👋, soy Paloma Arévalo</h1>
 <h3 align="center">Desarrolladora FrontEnd Junior y Adalaber</h3>
 
+![](https://komarev.com/ghpvc/?username=PalomaArevaloG&color=blueviolet)
+
 Durante muchos años me he dedicado al **turismo** ✈️, en concreto en agencias de viajes online. En 2020 comencé a adentrarme en el mundo de la programación y me gustó tanto que comencé el bootcamp de [Adalab](https://adalab.es/) en el que aprendí lo siguiente:
 
 ##### Formación técnica
